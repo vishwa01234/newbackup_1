@@ -1,7 +1,7 @@
 import git
 
 # replace the placeholders with your own values
-repo_path = r"C:\Users\AvuA\Downloads\git_test\Backup"
+repo_path = r"C:\test"
 # repo_path = r"C:\Users\AvuA\Downloads\untitled0.py"
 
 stash_repo_url = 'https://github.com/vishwa01234/backup_jen.git'
