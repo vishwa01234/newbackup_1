@@ -1,7 +1,7 @@
 import git
 
 # replace the placeholders with your own values
-repo_path = r"C:\test\newbackup_1"
+repo_path = r"C:\WINDOWS\system32\config\systemprofile\AppData\Local\Jenkins\.jenkins\workspace\cloning"
 # repo_path = r""
 # repo_path = r""
 
