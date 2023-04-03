@@ -5,7 +5,7 @@ repo_path = r"C:\WINDOWS\system32\config\systemprofile\AppData\Local\Jenkins\.je
 # repo_path = r""
 # repo_path = r""
 
-stash_repo_url = 'https://github.com/vishwa01234/backup_jen.git'
+stash_repo_url = 'https://<vishwa01234>github.com/vishwa01234/backup_jen.git'
 # stash_username = 'your_username'
 # stash_password = 'your_password'
 
